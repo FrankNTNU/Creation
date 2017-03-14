@@ -7,5 +7,5 @@ int main() {
 	}
 	printf("%d.\n", x);
 	return 0;
-// oops
+	// Sorry, I deleted your line. XD
 }
